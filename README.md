@@ -1,6 +1,3 @@
-Python-Calculator
-oleh: 
 
-pembahasan
 
 
